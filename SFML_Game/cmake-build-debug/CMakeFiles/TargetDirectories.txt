@@ -1,0 +1,3 @@
+/Users/gregoryjabido/Documents/Projects/SFML_Game/cmake-build-debug/CMakeFiles/SFML_Game.dir
+/Users/gregoryjabido/Documents/Projects/SFML_Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gregoryjabido/Documents/Projects/SFML_Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
